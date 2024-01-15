@@ -1,27 +1,15 @@
 # Ultrasoud Dataset for Collision Avoidance in Industrial Machinery
 
-This repository contains...    M. Zanghieri *et al*. [[1]](#1)
+This repository contains the dataset realized for the academic paper M. Zanghieri *et al*., "[An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery](#1)."
 For a **technical report** about an earlier stage of the same research project, please refer to F. Conti *et al*. [[2]](#2).
 
 
 
 ## Usage
 
-To run this small project, clone this repository:
-```
-git clone git@github.com:pulp-bio/tcn_under_review.git
-```
-The files expose the TCN's implementation and PyTorch and the file ``tcn_table.txt`` already contains the generated TCN's structure table.
-
-The requirements (see ``requirements.txt``) are the Python packages PyTorch 1.9.0 and torchinfo 1.8.0, quickly installable via the shell with
-```
-python -m pip install -r requirements.txt
-```
-The TCN is implemented in the module ``tcn.py``.
-1. Run ``visualize_tcn_table.ipynb`` (or equivalently ``visualize_tcn_table.py``) to generate the TCN, its ``torchinfo.ModelStatistics``, and the printed table.
-2. See the printed table in the standard output or in the file ``tcn_table.txt``.
-
-The generated output file is identical to the one already available in the repository.
+The folder ``data`` contains the data, divided in the $8$ collections.
+The folder ``documentation`` contains information about the acquisition setup.
+The folder ``scripts`` contains a Python module for loading the data, the module's documentation and a Jupyter notebook with an example.
 
 
 
