@@ -11,7 +11,9 @@ For a **technical report** about an earlier stage of the same research project, 
 ## Usage
 
 The folder ``data`` contains the data, divided in the $8$ collections.
+
 The folder ``documentation`` contains information about the acquisition setup.
+
 The folder ``scripts`` contains a Python module for loading the data, the module's documentation and a Jupyter notebook with an example.
 
 
