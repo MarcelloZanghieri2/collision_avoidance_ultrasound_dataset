@@ -11,7 +11,7 @@ TIMEWINDOW_S = 0.02048  # time window 20.48ms
 NUM_SAMPLES = round(FS_HZ * TIMEWINDOW_S)  # samples per time window
 NUM_COLLECTIONS = 8
 
-DIR_DATA_DOWNLOADED = '/scratch/zanghieri/ai4di_scm/data/downloaded/'
+DIR_DATA_DOWNLOADED = '../data/'
 DIR_COLLECTION_LIST = [
     'collection_0/',
     'collection_1/',
