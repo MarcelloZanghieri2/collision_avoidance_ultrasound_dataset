@@ -2,7 +2,7 @@
     Author(s):
     Marcello Zanghieri <marcello.zanghieri2@unibo.it>
     
-    Copyright (C) 2023 University of Bologna and ETH Zurich
+    Copyright (C) 2024 University of Bologna and ETH Zurich
     
     Licensed under the GNU Lesser General Public License (LGPL), Version 2.1
     (the "License");
