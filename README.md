@@ -47,7 +47,7 @@ When using the dataset, please cite its supporting paper:
 
 ## References
 
-<a id="1">\[1\]</a>
+<a id="1">[1]</a>
 M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, F. Conti, “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery,”  in *IEEE Access* **(ACCEPTED: TO APPEAR)**. 2024.
 
 <a id="2">\[2\]</a>
