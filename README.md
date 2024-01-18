@@ -1,5 +1,7 @@
 # Ultrasoud Dataset for Collision Avoidance in Industrial Machinery
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
 This repository contains the dataset realized for the academic paper
 
 M. Zanghieri *et al*., “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery” [[1]](#1).
