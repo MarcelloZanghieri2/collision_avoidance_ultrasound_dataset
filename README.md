@@ -50,10 +50,10 @@ When using the dataset, please cite its supporting paper:
 ## References
 
 <a id="1">[1]</a>
-M. Zanghieri *et al*., "An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery," in *IEEE Access* (ACCEPTED: TO APPEAR). 2024.
+M. Zanghieri, F. Indirli, A. Latella, F. Papariello, G. Urlini, L. Benini, F. Conti, “An Extreme-Edge TCN-Based Low-Latency Collision-Avoidance Safety System for Industrial Machinery,”  in *IEEE Access* (ACCEPTED: TO APPEAR). 2024.
 
 <a id="2">[2]</a>
-F. Conti *et al*., "AI-powered collision avoidance safety system for industrial woodworking machinery," in *AI4DI – Applications*. River Publishers, 2021. DOI: [10.1201/9781003337232-17](https://www.doi.org/10.1201/9781003337232-17).
+F. Conti F. Indirli, A. Latella, F. Papariello, G. M. Puglia, F. Tecce, G. Urlini, M. Zanghieri, "AI-powered collision avoidance safety system for industrial woodworking machinery," in *AI4DI – Applications*. River Publishers, 2021. DOI: [10.1201/9781003337232-17](https://www.doi.org/10.1201/9781003337232-17).
 
 
 
