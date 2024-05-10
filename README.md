@@ -21,7 +21,7 @@ The folder ``scripts`` contains a Python module for loading the data, the module
 ## Authors
 
 - [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (University of Bologna)
-- Fabrizio Indirli (work conducted while at Politecnico di Milano and STMicroelectronics)
+- Fabrizio Indirli (work done while at Politecnico di Milano and STMicroelectronics)
 - Antonio Latella (SCM Group)
 - Giacomo Michele Puglia (work done while at DPControl)
 - Felice Tecce (work done while at DPControl)
